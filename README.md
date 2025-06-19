@@ -41,3 +41,6 @@ VirtualMessenger is a modern reactive messenger built with Spring WebFlux and Re
 - Axios
 - EventSource / WebSocket
 - HeroUI
+
+
+video about this messenger - https://youtu.be/YQU5zR_iHRk?si=6s3IAdMYdt-R2AT8 
